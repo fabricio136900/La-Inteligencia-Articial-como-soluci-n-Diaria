@@ -103,13 +103,10 @@ Objetivo: integración avanzada y soluciones profesionales.
 No, desde cero puedes aprender. Hay un nivel para cada punto de partida.  
 
 **2. ¿Qué necesito para las clases?**  
-Solo una computadora con internet y cuentas gratuitas en ChatGPT, Gemini y Perplexity.  
+Solo una computadora con internet y cuentas gratuitas/suscritas en ChatGPT, Gemini y Perplexity.  
 
 **3. ¿Puedo elegir mi horario?**  
 Sí, coordinamos juntos la mejor hora (lunes a viernes).  
-
-**4. ¿Entregas certificado?**  
-Sí, al finalizar cada nivel recibirás un certificado digital.  
 
 ---
 
