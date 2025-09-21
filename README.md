@@ -1,5 +1,5 @@
-# 🤖 Curso 1:1 de Inteligencia Artificial Generativa  
-
+# La Inteligencia Artificial como solución Diaria
+## 🤖 Curso 1:1 de Inteligencia Artificial Generativa  
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" alt="Curso IA Generativa" width="800"/>
 </p>
@@ -18,7 +18,7 @@
 
 ## 📌 Información general
 - **Duración**: 10 horas → (10 sesiones × 1h).  
-- **Formato**: 100% Online (Google Meet o Zoom).  
+- **Formato**: 100% Online (Google Meet).  
 - **Horario**: Lunes a viernes (2 semanas).  
 - **Metodología**:  
   - 30 min teoría  
@@ -26,8 +26,7 @@
 - **Incluye**:  
   - Grabación de cada clase.  
   - Guías en PDF.  
-  - Plantillas de prompts listos para usar.  
-  - Certificado digital.  
+  - Plantillas de prompts listos para usar.
 
 ---
 
