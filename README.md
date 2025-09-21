@@ -119,6 +119,6 @@ Sí, al finalizar cada nivel recibirás un certificado digital.
 ⚡ *Cupos limitados — Inscripciones abiertas*  
 
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://wa.me/591XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Reservar-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="mailto:fabricio.alborta.22@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://wa.me/qr/6AXLMTMAZE4MB1"><img src="https://img.shields.io/badge/WhatsApp-Reservar-green?style=for-the-badge&logo=whatsapp" /></a>
 </p>
