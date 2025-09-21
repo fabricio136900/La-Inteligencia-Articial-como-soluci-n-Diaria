@@ -1,7 +1,7 @@
 # La Inteligencia Artificial como solución Diaria
 ## 🤖 Curso 1:1 de Inteligencia Artificial Generativa  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" alt="Curso IA Generativa" width="800"/>
+  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png](https://i.pinimg.com/736x/0c/11/32/0c11322f1a85fd53ded3356bc921b632.jpg) " alt="Curso IA Generativa" width="800"/>
 </p>
 
 <p align="center">
