@@ -35,12 +35,12 @@ Elige el nivel que más se adapte a ti:
 
 | Nivel | Objetivo | Precio (USD) | Precio (BOB) |
 |-------|----------|--------------|--------------|
-| 🔹 Iniciante | Comprender qué es la IA generativa y usarla en tareas básicas. | **150** | **1.877 Bs.** |
-| 🔹 Básico | Usar la IA en productividad diaria. | **250** | **3.128 Bs.** |
-| 🔹 Intermedio | Workflows y prompt engineering. | **450** | **5.630 Bs.** |
-| 🔹 Experto | Crear soluciones profesionales con IA. | **800** | **10.008 Bs.** |
+| 🔹 Iniciante | Comprender qué es la IA generativa y usarla en tareas básicas. | **110** | **1.045 Bs.** |
+| 🔹 Básico | Usar la IA en productividad diaria. | **195** | **1.852 Bs.** |
+| 🔹 Intermedio | Workflows y prompt engineering. | **340** | **3.230 Bs.** |
+| 🔹 Experto | Crear soluciones profesionales con IA. | **720** | **6.840 Bs.** |
 
-💡 *Oferta*: 10% de descuento pagando todo el curso por adelantado.  
+💡 *Oferta*: 10% de descuento pagando todo el curso por adelantado. (Excepto en los pagos parcelados) 
 
 ---
 
